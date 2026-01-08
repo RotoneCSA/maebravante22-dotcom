@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Geramae Rotone
+# Hi 👋, I'm Geramae Rotone
 
    📌**Peronal Information**
   
