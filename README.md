@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Gerame Rotone
 
-📌Peronal Information 
--name: Geramae Rotone 
+  📌Peronal Information 
+-**name:** Geramae Rotone 
 - 🎂 **Age:** 20 (Born on September 04, 2005)  
 - 📍 **Address:** Osmeña, Claveria, Masbate  
 - 📞 **Contact:** 09139778226  
