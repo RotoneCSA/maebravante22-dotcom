@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Gerame Rotone
 
-  📌Peronal Information 
+   📌**Peronal Information**
   
 -  **name:** Geramae Rotone 
 - 🎂 **Age:** 20 (Born on September 04, 2005)  
