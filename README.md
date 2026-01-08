@@ -11,10 +11,10 @@ I enjoy learning new technologies, improving my coding skills, and building simp
 ---
 
 ### 🎯 Student Goals
-- Learn and master **modern web development technologies** like React, Node.js, and TypeScript.  
+- Learn and master **modern web development technologies** liked Node.js, and TypeScript.  
 - Build **practical projects** to strengthen coding and problem-solving skills.  
 - Contribute to **open-source projects** and collaborate with other developers.  
-- Become a **confident, skilled developer** ready to take on real-world challenges.  
+- Become a **confident, and ready to take on real-world challenges.  
 - Continuously **learn new technologies** and keep improving my coding abilities.  
 
 ---
