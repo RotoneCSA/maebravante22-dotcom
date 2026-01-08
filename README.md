@@ -1,21 +1,19 @@
-# Hi there 👋, I'm Geramae Rotone
+# Hi there 👋, I'm Gerame Rotone
 
-### 📝 About Me
-I enjoy learning new technologies, improving my coding skills, and building simple yet meaningful projects. My goal is to continue developing my abilities and become a skilled and confident developer in the future.
-
+📌Peronal Information 
+-name: Geramae Rotone 
 - 🎂 **Age:** 20 (Born on September 04, 2005)  
 - 📍 **Address:** Osmeña, Claveria, Masbate  
 - 📞 **Contact:** 09139778226  
-- 📧 **Email:** [geramaerotone@gmail.com](mailto:geramaerotone@gmail.com)  
+- 📧 **Email:** [geramaerotone@gmail.com](mailto:geramaerotone@gmail.com)
+
+- ### 📝 About Me
+I enjoy learning new technologies, improving my coding skills, and building simple yet meaningful projects. My goal is to continue developing my abilities and become a skilled and confident developer in the future.
 
 ---
 
 ### 🎯 Student Goals
-- Learn and master **modern web development technologies** liked Node.js, and TypeScript.  
-- Build **practical projects** to strengthen coding and problem-solving skills.  
-- Contribute to **open-source projects** and collaborate with other developers.  
-- Become a **confident, and ready to take on real-world challenges.  
-- Continuously **learn new technologies** and keep improving my coding abilities.  
+Build practical projects to strengthen coding and problem-solving skills and Contribute to open-source projects and collaborate with other developers.  also Become a confident, and ready to take on real-world challenges. and Continuously learn new technologies and keep improving my coding abilities.  
 
 ---
 
